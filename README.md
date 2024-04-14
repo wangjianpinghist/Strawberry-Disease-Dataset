@@ -1,2 +1,2 @@
 # Strawberry-Disease-Dataset
-The strawberry disease dataset is sourced from Wang Jianping at Henan institute of Science and Technology. This database is publicly accessible.Downloading, accessing, or using this dataset for any purposes other than academic is strictly prohibited.
+The authors of this dataset recommend citing it in your publications. To protect the proper use of this dataset, except for the portion concerning healthy strawberry data, all other data is encrypted. Please contact the authors at wangjianping@hist.edu.cn for access requests. Upon receiving a reasonable request, we will provide the decryption password. Any downloading, accessing, or use of this dataset for commercial or non-academic purposes is strictly prohibited.
